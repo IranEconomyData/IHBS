@@ -1,0 +1,23 @@
+library(gh)
+library(rio)
+library(usethis)
+owner = "Elaheh-Elahi"
+repo = "IHBS_data_"
+directory = "data/90"
+branch = "main"
+files <- gh("/repos/:owner/:repo/contents/:path", owner = owner, repo = repo, path = directory, ref = branch)
+
+for (file in files){
+  file_url <- paste0("https://github.com/Elaheh-Elahi/IHBS_data_/raw/main/data/90/", file$name)
+  df <- import(file_url)
+  filename <- gsub(".rda$", "", file$name)
+  assign(filename , df)
+  do.call("use_data", list(as.name(filename), overwrite = TRUE))
+}
+
+??R90Data
+# rm(df, file, files)
+#
+devtools::install_github("Elaheh-Elahi/IHBS.90")
+
+usethis::create_package("~/IHBS.93")
