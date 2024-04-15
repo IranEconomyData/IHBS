@@ -1,0 +1,2 @@
+install.packages("usethis")
+usethis::create_package("~/IHBS.87")
