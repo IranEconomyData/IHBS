@@ -39,12 +39,14 @@ Returns the clickable list of tables for access to their documentation
 
    ![example](https://github.com/IranEconomyData/IHBS/blob/main/example.png)
 
-**4- list(IHBS.##)**
+**4- data(package = "IHBS.91")**
 
 Returns the list of tables in the data package
 
   example
-  
+
+   ![example](https://github.com/IranEconomyData/IHBS/blob/main/example2.png)
+    
 ## Data Description <a name="data-description"></a>
 
 The datasets are organized chronologically and categorized into urban and rural segments in Rd format. Each dataset represents a specific year of the IHBS and includes (tens of tables) information on household income, expenditure, and demographic variables.
