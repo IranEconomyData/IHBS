@@ -1,6 +1,6 @@
 # IHBS
 ## Introduction
- In this GitHub repository, we present a carefully compiled collection of datasets extracted from the Iran Household Budget Survey (IHBS), diligently gathered and organized by the Statistical Center of Iran (SCI).
+ This GitHub repository present a carefully compiled collection of datasets extracted from the Iran Household Budget Survey (IHBS), diligently gathered and organized by the Statistical Center of Iran (SCI).
  Since the 1960s, the Statistical Center of Iran (SCI) has been conducting the Household Expenditure and Income Survey (HEIS), initially concentrating on rural areas and later incorporating urban areas as of the late 1960s. The initial focus being exclusively on household expenditures, the survey expanded to include income inquiries in 1974–75.
  This data enables research on various aspects, including the composition of household income and expenditure, consumption patterns, poverty thresholds, and disparities in income distribution.
 ## Table of Contents
@@ -30,11 +30,11 @@ To install the data packages in R, you should run these commands:
 
 **1- Install the packages**
 
-**2- <?IHBS.##>**
+**2- `?IHBS.##`**
 
 Returns the documentation for the specified table
 
-**3- <??IHBS.##>**
+**3- `??IHBS.##`**
 
 Returns the clickable list of tables for access to their documentation
 
@@ -42,7 +42,7 @@ Returns the clickable list of tables for access to their documentation
 
    ![example](https://github.com/IranEconomyData/IHBS/blob/main/example.png)
 
-**4- data(package = "IHBS.91")**
+**4- `data(package = "IHBS.91")`**
 
 Returns the list of tables in the data package
 
