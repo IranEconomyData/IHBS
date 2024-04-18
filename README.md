@@ -12,7 +12,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact Information](#contact-information)
-- [Changelog](#changelog)
 - [Support](#support)
 - [References](#references)
 
@@ -26,37 +25,45 @@ The Repository-Name is IHBS.##, where ## refers to the year of reference in the 
 
 ## Usage <a name="usage"></a>
 
-1- Install the packages
-2- ?IHBS.## 
+**1- Install the packages**
+
+**2- <?IHBS.##>**
+
 Returns the documentation for the specified table
-3- ??IHBS.##
+
+**3- <??IHBS.##>**
+
 Returns the clickable list of tables for access to their documentation
-4- list(IHBS.##)
+
+  example
+
+   ![example](https://github.com/IranEconomyData/IHBS/blob/main/example.png)
+
+**4- list(IHBS.##)**
+
 Returns the list of tables in the data package
 
+  example
+  
 ## Data Description <a name="data-description"></a>
 
-Description of the data used in the project.
+The datasets are organized chronologically and categorized into urban and rural segments in Rd format. Each dataset represents a specific year of the IHBS and includes (tens of tables) information on household income, expenditure, and demographic variables.
 
 ## Documentation <a name="documentation"></a>
 
-Links to project documentation.
+In the Documentation-Data file in the R section, you can find detailed insights into the tables and columns of the data package, based on the Statistical Center of Iran. You will find comprehensive explanations, definitions, and insights into the structure and purpose of each table and column, empowering you to navigate and utilize the data effectively. It provides users with essential information necessary for a thorough understanding of the dataset's underlying architecture and functionalities, facilitating informed utilization and analysis.
 
 ## Contributing <a name="contributing"></a>
 
-Guidelines for contributing go here.
+Contributions to this repository, such as additional datasets and documentation improvements, are welcome.
 
 ## License <a name="license"></a>
 
-Information about the license goes here.
+This data package (IHBS) is licensed under the MIT.
 
 ## Contact Information <a name="contact-information"></a>
 
-Contact information goes here.
-
-## Changelog <a name="changelog"></a>
-
-History of changes to the project.
+For inquiries or suggestions, please feel free to contact [IranEconomyData@gmail.com](mailto:IranEconomyData@gmail.com). You can also reach out via
 
 ## Support <a name="support"></a>
 
@@ -64,4 +71,4 @@ Information about support options.
 
 ## References <a name="references"></a>
 
-References and additional resources.
+
