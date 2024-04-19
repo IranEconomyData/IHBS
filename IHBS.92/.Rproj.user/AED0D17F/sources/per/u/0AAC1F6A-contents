@@ -14,6 +14,7 @@ for (file in files){
   assign(filename , df)
   do.call("use_data", list(as.name(filename), overwrite = TRUE))
 }
-devtools::install_github("Elaheh-Elahi/IHBS.92")
 
-usethis::create_package("~/IHBS.96")
+devtools::install_github("Elaheh-Elahi/IHBS.84")
+
+usethis::create_package("~/IHBS.84")

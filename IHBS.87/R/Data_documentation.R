@@ -95,7 +95,7 @@
 #'                }
 #'   \item \code{JaygozinDesc}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #' }
 #'   \item \code{BlkAbdJaygozin}:
@@ -110,37 +110,37 @@
 #'  }
 #'   \item \code{fStat}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fEnt}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fvfy}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user1}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user2}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{user3}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user4}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -202,7 +202,7 @@
 #'                }
 #'   \item \code{JaygozinDesc}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #' }
 #'   \item \code{BlkAbdJaygozin}:
@@ -217,37 +217,37 @@
 #'  }
 #'   \item \code{fStat}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fEnt}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fvfy}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user1}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user2}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{user3}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user4}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -783,22 +783,22 @@
 #'              }
 #'          \item \code{DYCOL91}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL92}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL93}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL94}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -1270,22 +1270,22 @@
 #'              }
 #'          \item \code{DYCOL91}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL92}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL93}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL94}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -2033,7 +2033,7 @@
 #' }
 "U87P2"
 
-#' Table R87P3S01 \cr
+#' Table R87p3S01 \cr
 #' Household food and tobacco expenditure of rural household in 1387 \cr
 #' هزينه هاي خوراكي و دخانی خانوار روستایی سال 1387
 #'
@@ -2080,7 +2080,7 @@
 #'                \item Description: Value (Rials)
 #'              }
 #' }
-"R87P3S01"
+"R87p3S01"
 
 #' Table U87P3S01 \cr
 #' Household food and tobacco expenditure of urban household in 1387 \cr

@@ -1726,13 +1726,13 @@
 #'              }
 #'     \item \code{DYCOL07}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
 "R84P3S01"
 
-#' Table U84P3S01 \cr
+#' Table U84p3S01 \cr
 #' Household food and tobacco expenditure of urban household in 1384 \cr
 #' هزينه هاي خوراكي و دخانی خانوار شهری سال 1384
 #'
@@ -1780,11 +1780,11 @@
 #'              }
 #'     \item \code{DYCOL07}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
-"U84P3S01"
+"U84p3S01"
 
 #' Table R84P3S02 \cr
 #' Expenditure of unclassified beverages of rural household in 1384 \cr
@@ -1832,9 +1832,9 @@
 #'                \item Farsi name: \emph{ارزش (ریال)}
 #'                \item Description: Value (Rials)
 #'              }
-#'     \item \code{DYCOL07}:
+#'      \item \code{DYCOL07}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -1888,7 +1888,7 @@
 #'              }
 #'     \item \code{DYCOL07}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -3170,5 +3170,6 @@
 #'              }
 #' }
 "U84P4S03"
+
 
 

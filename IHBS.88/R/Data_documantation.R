@@ -75,7 +75,7 @@
 #'                }
 #'   \item \code{JaygozinDesc}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #' }
 #'   \item \code{BlkAbdJaygozin}:
@@ -90,37 +90,37 @@
 #'  }
 #'   \item \code{fStat}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fEnt}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fvfy}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user1}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user2}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{user3}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user4}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -182,7 +182,7 @@
 #'                }
 #'   \item \code{JaygozinDesc}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #' }
 #'   \item \code{BlkAbdJaygozin}:
@@ -197,37 +197,37 @@
 #'  }
 #'   \item \code{fStat}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fEnt}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fvfy}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user1}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user2}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{user3}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user4}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -763,22 +763,22 @@
 #'              }
 #'          \item \code{DYCOL91}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL92}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL93}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL94}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -1250,22 +1250,22 @@
 #'              }
 #'          \item \code{DYCOL91}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL92}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL93}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'          \item \code{DYCOL94}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -2877,7 +2877,7 @@
 #'              }
 #'     \item \code{DYCOL06}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
@@ -2926,7 +2926,7 @@
 #'              }
 #'     \item \code{DYCOL06}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }

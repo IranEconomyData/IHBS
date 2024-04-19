@@ -1,6 +1,6 @@
 {
     "id": "7FF70783",
-    "path": "~/IHBS.97/R/import_rda.R",
+    "path": "~/IHBS/IHBS.97/R/import_rda.R",
     "project_path": "R/import_rda.R",
     "type": "r_source",
     "hash": "3672668283",
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,1",
+        "cursorPosition": "16,0",
         "scrollLine": "0"
     },
     "folds": "",
