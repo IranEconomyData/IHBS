@@ -34,13 +34,13 @@ To install the data packages in R, you should run these commands:
 
 Returns the documentation for the specified table
 
- Replace <Table-Name> with the name of the table
+ Replace "Table-Name" with the name of the table
 
 **3- `??IHBS.##::Table-Name`**
 
 Returns the clickable list of tables for access to their documentation
 
- Replace <Table-Name> with the name of the table
+ Replace "Table-Name" with the name of the table
 
   example
 
