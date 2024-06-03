@@ -543,27 +543,27 @@
 #'              }
 #'     \item \code{COL3}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL4}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL5}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL6}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL7}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #' }
@@ -592,27 +592,27 @@
 #'              }
 #'     \item \code{COL3}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL4}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL5}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL6}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL7}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #' }
@@ -641,27 +641,27 @@
 #'              }
 #'     \item \code{COL3}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL4}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL5}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL6}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL7}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #' }
@@ -690,27 +690,27 @@
 #'              }
 #'     \item \code{COL3}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL4}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL5}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL6}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #'     \item \code{COL7}:
 #'             \itemize{
-#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Farsi name: \emph
 #'                \item Description: No description
 #'              }
 #' }
@@ -1194,8 +1194,8 @@
 "U83P3S09"
 
 #' Table R83P3S10 \cr
-#' Household Education expenditure of rural household in 1383 \cr
-#' هزينه هاي  مربوط به آموزش و تحصیل خانوار روستایی سال 1383
+#' Household recreation & leisure expenditure of rural household in 1383 \cr
+#' هزينه هاي  مربوط به خدمات فرهنگي و تفريحات خانوار روستایی سال 1383
 #'
 #' {R for Rural} \cr
 #' {83 for 1383} \cr
@@ -1228,8 +1228,8 @@
 "R83P3S10"
 
 #' Table U83P3S10 \cr
-#' Household Education expenditure of urban household in 1383 \cr
-#' هزينه هاي  مربوط به آموزش و تحصیل خانوار شهری سال 1383
+#' Household recreation & leisure expenditure of urban household in 1383 \cr
+#' هزينه هاي  مربوط به خدمات فرهنگي و تفريحات خانوار شهری سال 1383
 #'
 #' {U for Urban} \cr
 #' {83 for 1383} \cr
