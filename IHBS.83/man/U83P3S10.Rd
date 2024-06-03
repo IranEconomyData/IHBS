@@ -4,8 +4,8 @@
 \name{U83P3S10}
 \alias{U83P3S10}
 \title{Table U83P3S10 \cr
-Household recreation & leisure expenditure of urban household in 1383 \cr
-هزينه هاي  مربوط به خدمات فرهنگي و تفريحات خانوار شهری سال 1383}
+Household Education expenditure of urban household in 1383 \cr
+هزينه هاي  مربوط به آموزش و تحصیل خانوار شهری سال 1383}
 \format{
 A data frame with 4 columns:
 \itemize{

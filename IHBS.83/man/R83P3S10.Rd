@@ -4,8 +4,8 @@
 \name{R83P3S10}
 \alias{R83P3S10}
 \title{Table R83P3S10 \cr
-Household recreation & leisure expenditure of rural household in 1383 \cr
-هزينه هاي  مربوط به خدمات فرهنگي و تفريحات خانوار روستایی سال 1383}
+Household Education expenditure of rural household in 1383 \cr
+هزينه هاي  مربوط به آموزش و تحصیل خانوار روستایی سال 1383}
 \format{
 A data frame with 4 columns:
 \itemize{
