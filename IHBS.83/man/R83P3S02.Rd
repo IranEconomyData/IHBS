@@ -21,27 +21,27 @@ A data frame with 7 columns:
 }
 \item \code{COL3}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph {اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{COL4}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph {اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{COL5}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph {اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{COL6}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph {اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{COL7}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph {اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 }
