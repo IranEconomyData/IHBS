@@ -21,9 +21,9 @@ To install the data packages in R, you should run these commands:
 
 `install.packages("devtools")`
 
-**devtools::install_github("IranEconomyData/IHBS/Repository-Name")**
+`devtools::install_github("IranEconomyData/IHBS/Repository-Name")`
 
-**library(Repository-Name)**
+`library(Repository-Name)`
 
 <small>The Repository-Name is IHBS.##, where ## refers to the year of reference in the Persian calendar.</small>
 
